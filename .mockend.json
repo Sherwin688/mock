@@ -1,5 +1,15 @@
 {
-  "User": {
-    "title": { "string": {} }
-  }
+  "cubicles":
+    {
+      "id":1,
+      "status":"booked"
+    },
+  {
+      "id":2,
+      "status":"booked"
+    },
+{
+      "id":3,
+      "status":"booked"
+    },
 }
